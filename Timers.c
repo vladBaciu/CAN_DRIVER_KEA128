@@ -6,13 +6,6 @@
  */
 
 
-/*
- * PIT.c
- *
- *  Created on: Jun 12, 2018
- *      Author: Vlad
- */
-
 #include "derivative.h" /* include peripheral declarations */
 #include "Timers.h"
 #include "PORT_Config.h" // include peripheral declarations
